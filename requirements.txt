@@ -1,0 +1,8 @@
+# Core libraries for data manipulation and database interaction 
+pandas 
+sqlalchemy 
+# For exploratory notebooks 
+jupyterlab 
+notebook 
+# For downloading data 
+requests
